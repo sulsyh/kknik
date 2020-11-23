@@ -2,11 +2,12 @@
 generator nik dan kk
 
 Termux :
- apt update && apt upgrade -y
 
- pkg install python2 git -y
+$ apt update && apt upgrade -y
 
- git clone https://github.com/sulsyh/kknik
+$ pkg install python2 git -y
 
-Gunakan dengan bijak ya bro
+$ git clone https://github.com/sulsyh/kknik
+
+ Gunakan dengan bijak ya bro
 
